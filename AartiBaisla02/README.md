@@ -1,3 +1,5 @@
+![logo](https://github.com/AartiBaisla02/AartiBaisla02/blob/main/marketing.png)
+
 <h1 align="center">Hi, I'm Aarti – Data Analyst | Insight Builder | Problem Solver</h1>
 
 <p align="center"alt="coding"width="400">
@@ -94,8 +96,8 @@ Explore more in my [Data Analytics Portfolio Repository](https://github.com/Aart
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:aartibaisla02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/aarti-baisla"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:aartibaisla8920@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/aarti-baisla-b359071a7"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 <p align="center">
