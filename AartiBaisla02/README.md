@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Aarti – Data Analyst | Insight Builder | Problem Solver</h1>
 
-<p align="right"alt="coding"width="400">
+<p align="center"alt="coding"width="400">
   <img src="https://tse3.mm.bing.net/th/id/OIP.zwJUihxJsHgUL9eQ2x-n4QHaEK?pid=Api&P=0&h=180"/>
 </p>
 
